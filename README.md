@@ -67,10 +67,13 @@ MinTIC: Los datos abarcan desde el 7 de abril de 2019 hasta el 11 de noviembre d
 ### Tres riesgos de calidad
 > ¿Qué podría venir mal en los datos? ¿Qué harías si la fuente falla?
 
-1. 
-2. 
-3. 
-
+1. La ortografía
+2. Errores de formato
+3. Fechas truncadas
+4. Valores atipicos
+3. Campos incompletos 
+Se dejarían normalizaciones claras y conclusas para no afectar la transparencia de los datos
+en caso tal de que no se pueda, ciertas preguntas no podrían ser solucionadas de manera objetiva  
 ### Mapa de preguntas
 - ¿Qué pasó?
 - ¿Dónde o cuándo es distinto?
