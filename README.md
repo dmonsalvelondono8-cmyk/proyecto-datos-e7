@@ -15,14 +15,14 @@ La Secretaría de Seguridad de Medellín podría utilizar los resultados para id
 ### 2. Pregunta principal
 > Una sola pregunta que ayude a tomar esa decisión.
 
-¿Cuáles fueron los delitos informáticos más denunciados en Medellín entre 2023 y 2025, y cómo evolucionó su frecuencia mensual durante ese período?
+¿Cuáles fueron los delitos informáticos más denunciados en Medellín entre 2005 y 2026, y cómo evolucionó su frecuencia mensual durante ese período?
 
 
 ### 3. Fuente de datos
 > Enlace o nombre de la fuente. ¿Es pública o es una muestra de práctica inventada (sintética)? Si es inventada, dilo aquí.
 
 Policía Nacional: https://www.datos.gov.co/d/4v6r-wu98
-Min Tic: https://www.datos.gov.co/d/agi2-ekag
+Min Tic:https://www.datos.gov.co/d/agi2-ekag](https://www.datos.gov.co/Seguridad-y-Defensa/DELITOS-INFORM-TICOS/4v6r-wu98/about_data
 
 
 ### 4. Qué representa una fila
