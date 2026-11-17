@@ -9,18 +9,15 @@ Equipo E_7 · Análisis de Datos Básico · Estud-IA (Capa 2)
 ### 1. Usuario y decisión
 La Secretaría de Seguridad de Medellín podría utilizar los resultados para identificar los delitos informáticos con mayor número de denuncias y decidir cuáles requieren mayor atención en sus estrategias de seguridad digital.
 
-Escribe aquí.
 
 ### 2. Pregunta principal
 ¿Cuáles fueron los delitos informáticos más denunciados en Medellín entre 2023 y 2025, y cómo evolucionó su frecuencia mensual durante ese período?
 
-Escribe aquí.
 
 ### 3. Fuente de datos
 Policía Nacional: https://www.datos.gov.co/d/4v6r-wu98
 Min Tic: https://www.datos.gov.co/d/agi2-ekag
 
-Escribe aquí.
 
 ### 4. Qué representa una fila
 
