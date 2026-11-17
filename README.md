@@ -1,4 +1,4 @@
-## Análisis de Delitos Informáticos en Medellín (2023–2025)
+## Análisis de Delitos Informáticos en Medellín (2005–2026)
 
 Equipo E_7 · Análisis de Datos Básico · Estud-IA (Capa 2)
 
@@ -37,7 +37,7 @@ PENDIENTE: Confirmar con las fuentes oficiales cómo se distinguen los registros
 ### 5. Periodo
 > ¿Qué fechas cubren los datos?
 
-Policía Nacional: Los datos abarcan desde el 1 de enero de 2023 hasta el 30 de septiembre de 2026. Para nuestro proyecto analizaremos únicamente el período de 2023 a 2025.
+Policía Nacional: Los datos abarcan desde el 1 de enero de 2005 hasta el 30 de septiembre de 2026. Para nuestro proyecto analizaremos únicamente el período de 2005 a 2026.
 
 MinTIC: Los datos abarcan desde el 7 de abril de 2019 hasta el 11 de noviembre de 2026. Esta fuente se utilizará como información complementaria.
 
