@@ -7,19 +7,26 @@ Equipo E_7 · Análisis de Datos Básico · Estud-IA (Capa 2)
 ## Ficha del proyecto · versión 1
 
 ### 1. Usuario y decisión
+> ¿Quién usará el resultado (una persona o un área) y qué va a decidir con él?
+
 La Secretaría de Seguridad de Medellín podría utilizar los resultados para identificar los delitos informáticos con mayor número de denuncias y decidir cuáles requieren mayor atención en sus estrategias de seguridad digital.
 
 
 ### 2. Pregunta principal
+> Una sola pregunta que ayude a tomar esa decisión.
+
 ¿Cuáles fueron los delitos informáticos más denunciados en Medellín entre 2023 y 2025, y cómo evolucionó su frecuencia mensual durante ese período?
 
 
 ### 3. Fuente de datos
+> Enlace o nombre de la fuente. ¿Es pública o es una muestra de práctica inventada (sintética)? Si es inventada, dilo aquí.
+
 Policía Nacional: https://www.datos.gov.co/d/4v6r-wu98
 Min Tic: https://www.datos.gov.co/d/agi2-ekag
 
 
 ### 4. Qué representa una fila
+> Completa la frase: «Cada fila es…». ¿Qué campo distingue una fila de otra?
 
 Policía Nacional: Cada fila representa un registro de un hecho delictivo reportado en Medellín. Contiene la fecha, el municipio, el tipo de delito y la cantidad. No se encontró un campo que identifique de manera única cada registro.
 
@@ -28,6 +35,7 @@ MinTIC: Cada fila representa un incidente de ciberseguridad atendido en Antioqui
 PENDIENTE: Confirmar con las fuentes oficiales cómo se distinguen los registros que presentan valores idénticos.
 
 ### 5. Periodo
+> ¿Qué fechas cubren los datos?
 
 Policía Nacional: Los datos abarcan desde el 1 de enero de 2023 hasta el 30 de septiembre de 2026. Para nuestro proyecto analizaremos únicamente el período de 2023 a 2025.
 
