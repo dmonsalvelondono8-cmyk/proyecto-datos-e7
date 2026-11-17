@@ -1,4 +1,4 @@
-Análisis de Delitos Informáticos en Medellín (2023–2025)
+## Análisis de Delitos Informáticos en Medellín (2023–2025)
 
 Equipo E_7 · Análisis de Datos Básico · Estud-IA (Capa 2)
 
