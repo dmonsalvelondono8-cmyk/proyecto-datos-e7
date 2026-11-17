@@ -44,23 +44,25 @@ MinTIC: Los datos abarcan desde el 7 de abril de 2019 hasta el 11 de noviembre d
 ### 6. Cuatro indicadores
 > Nombre de cada indicador y, si ya puedes, cómo se calcula (qué se divide entre qué).
 
-1. 
-2. 
-3. 
-4. 
+1. Incidentes de seguridad por mes (Rango)
+2. 5 Delitos mas frecuentes
+3. Porcentaje de participación categorizado por delito
+4. Cantidad total de delitos por Departamento
 
 ### 7. Fuera de alcance
 > Lo que este proyecto NO va a responder.
 
-Escribe aquí.
-
+1. Herramientas tecnologicas utilizadas por delito
+2. Comparativa global por delito
+3. Como mitigar cada delito
 ## Si alcanzas hoy (para el jueves es obligatorio)
 
 ### Dos comparaciones útiles
 > Por ejemplo: por mes, por comuna, por categoría.
 
-1. 
-2. 
+1. Por categoría de delito
+2. Por rango de fechas
+3. Cantidad total por delito
 
 ### Tres riesgos de calidad
 > ¿Qué podría venir mal en los datos? ¿Qué harías si la fuente falla?
