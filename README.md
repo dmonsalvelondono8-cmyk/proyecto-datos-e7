@@ -1,6 +1,6 @@
-# Nombre del proyecto
+Análisis de Delitos Informáticos en Medellín (2023–2025)
 
-Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
+Equipo E_7 · Análisis de Datos Básico · Estud-IA (Capa 2)
 
 > **Cómo llenar este archivo:** borra «Escribe aquí» y responde debajo de cada pregunta. Si todavía no sabes algo, escribe **PENDIENTE:** y qué te falta confirmar. No inventes datos.
 
