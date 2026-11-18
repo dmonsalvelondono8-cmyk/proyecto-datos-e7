@@ -22,24 +22,24 @@ La Secretaría de Seguridad de Medellín podría utilizar los resultados para id
 > Enlace o nombre de la fuente. ¿Es pública o es una muestra de práctica inventada (sintética)? Si es inventada, dilo aquí.
 
 Policía Nacional: https://www.datos.gov.co/d/4v6r-wu98
-Min Tic:https://www.datos.gov.co/d/agi2-ekag](https://www.datos.gov.co/Seguridad-y-Defensa/DELITOS-INFORM-TICOS/4v6r-wu98/about_data
+MinDefensa: https://www.datos.gov.co/Seguridad-y-Defensa/DELITOS-INFORM-TICOS/4v6r-wu98/about_data
 
 
 ### 4. Qué representa una fila
 > Completa la frase: «Cada fila es…». ¿Qué campo distingue una fila de otra?
 
-Policía Nacional: Cada fila representa un registro de un hecho delictivo reportado en Medellín. Contiene la fecha, el municipio, el tipo de delito y la cantidad. No se encontró un campo que identifique de manera única cada registro.
+Min Defensa: Cada fila representa un registro de un delito informático, indicando la fecha, el departamento, el municipio, el tipo de delito y la cantidad registrada.
 
-MinTIC: Cada fila representa un incidente de ciberseguridad atendido en Antioquia. Contiene la fecha, el sector, el tipo de incidente y su importancia. Tampoco se encontró un identificador único.
+Policía Nacional: Cada fila representa un registro de un incidente, la fecha de solicitud, el sector de la entidad, el tipo de incidente y su nivel de importancia.
 
-PENDIENTE: Confirmar con las fuentes oficiales cómo se distinguen los registros que presentan valores idénticos.
+Ninguna de las dos bases de datos tiene un identificador único. Para distinguir cada registro.
 
 ### 5. Periodo
 > ¿Qué fechas cubren los datos?
 
 Policía Nacional: Los datos abarcan desde el 1 de enero de 2005 hasta el 30 de septiembre de 2026. Para nuestro proyecto analizaremos únicamente el período de 2005 a 2026.
 
-MinTIC: Los datos abarcan desde el 7 de abril de 2019 hasta el 11 de noviembre de 2026. Esta fuente se utilizará como información complementaria.
+Min Defensa: Los datos abarcan desde el 7 de abril de 2019 hasta el 11 de noviembre de 2026. Esta fuente se utilizará como información complementaria.
 
 ### 6. Cuatro indicadores
 > Nombre de cada indicador y, si ya puedes, cómo se calcula (qué se divide entre qué).
