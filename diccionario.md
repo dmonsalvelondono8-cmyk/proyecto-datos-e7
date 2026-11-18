@@ -71,51 +71,64 @@ Copia este bloque una vez por columna. Hoy, mínimo tres.
 ## Columnas
 
 ### fecha_de_solicitud
-- Qué significa: 
+- Qué significa: La fecha en la cual ocurrió el incidente
 - Tipo: date
 - Unidad o formato: (pesos, horas, AAAA-MM-DD…) AAAA-MM-DD-HH-MM
 - Valores válidos: (por ejemplo: de 1 a 16; «completada» o «cancelada») **PENDIENTE:**
 - Si está vacía, significa: **N/A**
 
-### COD_DEPTO
-- Qué significa: codigo unico del departamento
-- Tipo: int
-- Unidad o formato: numerico
-- Valores válidos: números positivos entre 1 - 100 
+### orden_de_la_entidad
+- Qué significa: orden al que pertenece la entidad
+- Tipo: varchar
+- Unidad o formato: texto/caracter
+- Valores válidos: texto
 - Si está vacía, significa: **N/A**
 
-### DEPARTAMENTO
-- Qué significa: Nombre del departamento
+### sector
+- Qué significa: sector de donde reportaron el incidente
 - Tipo: varchar
 - Unidad o formato: texto/caracter 
-- Valores válidos: 
+- Valores válidos: texto
 - Si está vacía, significa: **N/A**
 
-### COD_MUNI
-- Qué significa: Codigo del municipio
+### regi_n
+- Qué significa: Cada una de las grandes divisiones territoriales del pais
+- Tipo: varchar
+- Unidad o formato: texto/caracter
+- Valores válidos: texto
+- Si está vacía, significa: **N/A**
+
+### divipola_departamento
+- Qué significa: identificador del departamento
 - Tipo: int
 - Unidad o formato: numerico
-- Valores válidos: números positivos entre el 1 - 10.000
+- Valores válidos: entre el 1 - 100
 - Si está vacía, significa: **N/A**
 
-### MUNICIPIO
-- Qué significa: nombre del municipio
-- Tipo: varchar
-- Unidad o formato: texto/caracter 
-- Valores válidos:
-- Si está vacía, significa: **N/A**
-
-### DESCRIPCION CONDUCTA
-- Qué significa: Descripción del delito y articulo según las leyes locales
+### departamento
+- Qué significa: nombre del departamento
 - Tipo: Text
 - Unidad o formato: texto/caracter 
 - Valores válidos: texto
 - Si está vacía, significa:**N/A**
 
-### CANTIDAD
-- Qué significa: Cantidad por delito registrados en una misma fecha
-- Tipo: int
-- Unidad o formato: numerico 
-- Valores válidos: números entre el 1 - X
+### clasificasi_n_taxonom_a
+- Qué significa: incidente ocurrido en el delito
+- Tipo: Text
+- Unidad o formato: texto/caracter 
+- Valores válidos: texto
 - Si está vacía, significa:**N/A**
 
+### tipo_de_incidente
+- Qué significa: nombre del delito
+- Tipo: Text
+- Unidad o formato: texto/caracter 
+- Valores válidos: texto
+- Si está vacía, significa:**N/A**
+
+### importancia
+- Qué significa: clasificación del delito
+- Tipo: Enum
+- Unidad o formato: cadena 
+- Valores válidos: texto
+- Si está vacía, significa:**N/A**
