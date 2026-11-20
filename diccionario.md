@@ -5,7 +5,7 @@
 - **Archivo:** `datos/originales/DELITOS_INFORMÁTICOS_20261117.csv`
 - **Fuente y fecha de descarga:** `Min defensa 17/11/2026`
 - **Cada fila es:** representa un registro de un delito informático, indicando la fecha, el departamento, el municipio, el tipo de delito y la cantidad registrada.
-- **Filas en la muestra:** 537.241
+- **Filas en la muestra:** 537.240
 - **Campo que identifica cada fila (clave):** **PENDIENTE:**
 
 ## Columnas
@@ -65,7 +65,7 @@ Copia este bloque una vez por columna. Hoy, mínimo tres.
 - **Archivo:** `datos/originales/incidentes_ciberseguridad_antioquia.csv`
 - **Fuente y fecha de descarga:** `Policia nacional 17/11/2026`
 - **Cada fila es:** registro de un incidente, la fecha de solicitud, el sector de la entidad, el tipo de incidente y su nivel de importancia.
-- **Filas en la muestra:** 293
+- **Filas en la muestra:** 292
 - **Campo que identifica cada fila (clave):** **PENDIENTE:**
 
 ## Columnas
